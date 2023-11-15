@@ -1,0 +1,19 @@
+[
+  {
+    "Number": "1",
+    "Owner": "ALEX",
+    "Balance": 14800,
+    "Transactions": [
+      {
+        "Amount": 15000,
+        "Date": "2023-11-08T16:59:30.5139198+01:00",
+        "Note": "New Account"
+      },
+      {
+        "Amount": -200,
+        "Date": "2023-11-08T16:59:44.6320772+01:00",
+        "Note": "Volet"
+      }
+    ]
+  }
+]
